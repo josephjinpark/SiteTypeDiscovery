@@ -1,7 +1,6 @@
 // vi:foldmethod=marker
 
 // Originally Coded by Sukjun Kim
-
 // Adapted and modified by Jinman Park
 
 // CHANGE LOG
