@@ -1,5 +1,5 @@
 *Note:
-I and the original coder of the md.3.xx.cc program are no loger affliated with the Baek Group. Please contact them directly for code requests or other inquiries. Thank you!
+I and the original coder of the md-3.x.cc program are no loger affliated with the Baek Group. Please contact them directly for code requests or other inquiries. Thank you!
 
 
 # Site type discovery
