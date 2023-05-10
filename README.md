@@ -1,3 +1,7 @@
+*Note:
+I and the original coder of the md-3.x.cc program are no loger affliated with the Baek Group. Please contact them directly for code requests or other inquiries. Thank you!
+
+
 # Site type discovery
 These are the instructions for the use of the site type discovery program as described in Kim et al., <i>Nature Genetics</i> 2016. For details, please refer to the original publication, “General rules for functional microRNA targeting”, doi:10.1038/ng.3694.
 
